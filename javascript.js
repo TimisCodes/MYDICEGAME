@@ -8,29 +8,29 @@ var imageElement = document.getElementsByClassName("img1")[0];
 
 if(randomNumberFloor === 3){
 
-imageElement.setAttribute("src", ".//images/dice3.png");}
+imageElement.setAttribute("src", "dice3.png");}
 else if(randomNumberFloor === 2){
 
-imageElement.setAttribute("src", ".//images/dice2.png");
+imageElement.setAttribute("src", "dice2.png");
 }
 
 else if(randomNumberFloor === 1){
 
-    imageElement.setAttribute("src", ".//images/dice1.png");
+    imageElement.setAttribute("src", "dice1.png");
     }
 
     else if(randomNumberFloor === 4){
 
-        imageElement.setAttribute("src", ".//images/dice4.png");
+        imageElement.setAttribute("src", "dice4.png");
         }
 
         else if(randomNumberFloor === 5){
 
-            imageElement.setAttribute("src", ".//images/dice5.png");
+            imageElement.setAttribute("src", "dice5.png");
             }
             else if(randomNumberFloor === 6){
 
-                imageElement.setAttribute("src", ".//images/dice6.png");
+                imageElement.setAttribute("src", "dice6.png");
                 }
 console.log(randomNumberFloor);
 
@@ -43,29 +43,29 @@ var imageElement = document.getElementsByClassName("img2")[0];
 
 if(randomNumberFloor2 === 3){
 
-imageElement.setAttribute("src", ".//images/dice3.png");}
+imageElement.setAttribute("src", "dice3.png");}
 else if(randomNumberFloor2 === 2){
 
-imageElement.setAttribute("src", ".//images/dice2.png");
+imageElement.setAttribute("src", "dice2.png");
 }
 
 else if(randomNumberFloor2 === 1){
 
-    imageElement.setAttribute("src", ".//images/dice1.png");
+    imageElement.setAttribute("src", "dice1.png");
     }
 
     else if(randomNumberFloor2  === 4){
 
-        imageElement.setAttribute("src", ".//images/dice4.png");
+        imageElement.setAttribute("src", "dice4.png");
         }
 
         else if(randomNumberFloor2  === 5){
 
-            imageElement.setAttribute("src", ".//images/dice5.png");
+            imageElement.setAttribute("src", "dice5.png");
             }
             else if(randomNumberFloor2  === 6){
 
-                imageElement.setAttribute("src", ".//images/dice6.png");
+                imageElement.setAttribute("src", "dice6.png");
                 }
 console.log(randomNumberFloor2);
 
